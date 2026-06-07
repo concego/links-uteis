@@ -4,4 +4,6 @@
 
 * **Zapia** - Assistente pessoal por IA para gestão de tarefas, informações e produtividade.
 
+* **NotebookLM** - Ferramenta de pesquisa e escrita baseada em IA para organizar e sintetizar informações.
+
 [⬅ Voltar](./index.md)
