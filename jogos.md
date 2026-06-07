@@ -3,4 +3,6 @@
 
 * **Idle Iktah** - RPG de progressão (idle) focado em habilidades e combate.
 
+* **Depths of Endor** - RPG de exploração de masmorras (dungeon crawler) com foco em estratégia.
+
 [⬅ Voltar](./index.md)
