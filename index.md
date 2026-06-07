@@ -10,4 +10,4 @@ Boa navegação!
 * [🎨 Cultura](./cultura.md)
 
 ---
-[Voltar para o site principal](https://concego.github.io/site-oficial/)
+[Voltar para o site principal](https://site.zapia.com/7kbm7a1e)
