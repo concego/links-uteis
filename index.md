@@ -7,7 +7,8 @@ Boa navegação!
 ## Categorias
 * [🎮 Jogos](./jogos.md)
 * [🚀 Ferramentas](./ferramentas.md)
-* [🎨 Cultura](./cultura.md)
+* [🎨 Cultura]
+* [🎓 Educacional](./educacional.md)(./cultura.md)
 
 ---
 [Voltar para o site principal](https://site.zapia.com/7kbm7a1e)
