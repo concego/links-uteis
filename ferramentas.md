@@ -6,4 +6,6 @@
 
 * **NotebookLM** - Ferramenta de pesquisa e escrita baseada em IA para organizar e sintetizar informações.
 
+* **Google Keep** - Notas rápidas, listas e lembretes com sincronização em nuvem.
+
 [⬅ Voltar](./index.md)
